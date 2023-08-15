@@ -1,0 +1,1 @@
+jq -r 'to_entries | map(. + {index:.key})' $1

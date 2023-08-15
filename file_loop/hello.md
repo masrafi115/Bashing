@@ -1,0 +1,1 @@
+com.mycompany.myepubreadercom.mycompany.myepubreadercom.mycompany.myepubreader

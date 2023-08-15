@@ -1,0 +1,1 @@
+jq -Rs '[ ls |  | {title: .[0], text: .[1]} ]'

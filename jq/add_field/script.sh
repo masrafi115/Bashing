@@ -1,0 +1,1 @@
+jq '.[] += {"operation":"delete"}' $1

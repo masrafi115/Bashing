@@ -1,0 +1,1 @@
+jq '.[] | .[] | select(.repo == "termux")' inrepo2.json > result2.json

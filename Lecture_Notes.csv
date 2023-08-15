@@ -1,0 +1,266 @@
+"Class","Date and Time","Instructor Name","Lecture Title","Homework","Notes","Photos","Records","Files"
+"Electrical engineering fundamental","10/9/21 15:00:47","Mehedi Hasan","Electric Power","Draw and calculate equivalent circuit with different/random/changed value of components","","file:///storage/emulated/0/DCIM/Camera/IMG_20211009_155616.jpg","",""
+"Basic Electronics","","","Why CE configuration is the best","","CE configuration is mainly used because its current, 
+voltage and power gains are quite high and the ratio 
+of output impedance and input impedance are quite moderate. 
+
+The common emitter configuration(CE) provides maximum voltage and current gain. The other configurations provide either high current gain or voltage gain but not both for a BJT. 
+
+An amplifier that does amplification of both voltage as well current are always preferred and hence does the choice of CE becomes obvious. ","","",""
+"Chemistry","","","Difference between ions and radicals","","Polyatomic ions are known as radicals.
+
+Monoatomic ions are known as ions.
+265 views 3 upvotes
+
+#
+Profile photo for Khushi Pandey
+Khushi Pandey
+Answered September 30, 2020
+
+Radicals and ions are reactive species. Both are produced from a neutral atom or a molecule that is more stable than an ion or a radical.
+
+Before we continue with our difference between both, we should have a brief description about ions and radicals.
+
+IONS:
+
+▪︎ Ions are charged species with a positive or a negative charge. Positively charged ions are known as cations and negatively charged ions are known as anions.
+
+▪︎ In an ion there is a different number of electrons than the protons. Ions can have -1 or +1 charges, which we call as monovalent.
+
+▪︎ Since cations and anions have opposite charges, they are attracted to each other with electrostatic forces, forming ionic bonds.
+
+▪︎ Cations are usually formed by metal atoms, and the anions are formed by nonmetal atoms.
+
+RADICAL:
+
+▪︎ Radical is a species (atom, molecule) with an unpaired electron. In other words, they have an open shell configuration, and because of this, radicals are highly unstable, which leads to a high reactivity.
+
+▪︎ They are short lived.
+
+▪︎ When radicals collide with another species, they tend to react in a way that leads to pairing of their unpaired electron.
+
+▪︎ Another way a radical can react is by combining with a compound containing a multiple bond to produce a new larger radical.
+
+▪︎ When a covalent bond is homolysed (the two electrons participating to make the bond are divided equally to the two atoms so that one atom gets only one electron), radicals are formed. Energy must be supplied to cause homolysis of covalent bonds. This is done in two ways, by heating or by irradiating with light.
+
+DIFFERENCE BETWEEN AN ION AND A RADICAL
+
+• Ion is a species which has obtained an extra electron or donated an electron out. Radical is a species with an unpaired electron.
+
+• Ions have a charge( either positive or negative) whereas Free Radicals are usually neutral.
+
+• Ions have completed their valance shell though chemical[covalent] bonding( either though the octet or duplet rule) while the valance shell of free radicals is incomplete.
+
+• Ions have an even number of electrons whereas free radicals have an odd number of electrons.
+
+• Ions are represented with a ""-"" or ""+"" in the superscript while free radicals have a dot(.) above them for the unpaired electron.
+8.8K views 12 upvotes
+
+
+
+
+
+#
+Profile photo for Martin J Pitt
+Martin J Pitt
+, Former Chartered Chemist and Chartered Chemical Engineer
+Answered July 3, 2016
+
+Let us take methane CH4 and break it, e,g with ultraviolet light, knocking off a hydrogen, giving CH3. Now the C-H bond contains 2 electrons - one from the C atom and one from the H atom, but now indistinguishable. The H atom is basically a proton and an electron which is a bit lonely, so given the chance two H atoms will form a pair (swarming round both protons), making H2. We can symbolize the electrons in a bond by dots (as they are very small) so that H2 is actually H : H.
+
+Similarly, looking at the point of breakage, CH4 is H3C : H
+
+The break can happen in 3 ways.
+
+(1) Both electrons stay with the carbon. Since electrons have a negative charge and protons have a positive charge this means CH4 = CH3(-) and H(+).
+These charged entities are ions. (We normally indicate this with superscripts).
+
+(2) Both electrons go with the hydrogen then CH4 = CH3(+) and H(-)
+these are also ions.
+
+(3) On electron stays with the carbon and one with the hydrogen. Thus the two components are electrically neutral. CH4 = CH3. and H.
+
+These are radicals. They are very reactive species, since their electrons will be looking for a chance to pair up in a bond.
+
+Some chemical situations, such as a solution in water, can stabilize ions. So, for example if a H(+) ion (a proton) finds itself in water, its positive charge attracts it to the cloud of electrons in H2O, making H3O(+). There is not bond formed, but rather a spreading of the excess positive charge over the other protons, making them identical. In addition, pure H2O is actually electrically insulating, allowing charged species to remain separate. Thus sodium chloride dissolves in water to an ionic solution.
+
+An ion is an atom or molecule that is positively or negatively charged due to the loss or gain of an electron. In order for an atom to be neutral the number of electron orbiting the nucleus must match the number of protons in the nucleus. If these don't match, then we have an ion. So anytime an atom or molecule looses or gains an electron, and the number of electrons no longer match the number of protons, then it is an ion. The result is this atom or molecule now carries a charge, whether it be positive or negative.
+A radical is a molecule or atom that has at least one unpaired electron (one electron is in an orbit by itself), but this moelcule or atom does not carry a charge like an ion because the number of orbiting electrons still matches the number of protons in the nucleus.; however it is very reactive.
+Elemental nitrogen has an atomic number of 7 with a mass of 14.0067. Therefore, it has a proton number of 7 in the nucleus as determined by subtracting number of electrons from the mass number. Because its number of electrons match the number of protons in its elemental state it cannot be an ion.
+However, if we check it's shells we get 1S2, 2S2, 2P3. Because there is at least one unpaired electron floating around now in the outermost shell it must be a radical.
+15.9K views 40 upvotes
+
+
+
+#
+Profile photo for Rich Hochstim
+Rich Hochstim
+, BS Chemistry & Biology, University of Miami (1983)
+Answered November 26, 2020
+
+Originally Answered: What are the differences between ion and radical? Explain with examples.
+Q: What are the differences between ion and radical? Explain with examples?
+
+A radical has one unpaired electron.
+
+In an ion the number of protons does not equal the number of electrons.
+
+H• is a hydrogen radical, it has one unpaired electron.
+
+H+ is a hydrogen ion (a cation) it has one proton and no electrons.
+
+Trust me, radicals need not be neutral…
+
+
+275 views 3 upvotes
+
+#
+Profile photo for Rob Hooft
+Rob Hooft
+, Broad science interest. Chemistry study.
+Answered February 15, 2018
+
+The properties are independent. It is similar to the difference between odd numbers and unequal numbers: two odd numbers can be unequal to each other.
+
+An ion is an entity that has a unequal number of electrons and protons.
+
+A radical is an entity that has an odd number of electrons, so that one electron is not paired up. This is independent of the total number of protons.
+
+Some atoms and molecules readily form ions, because gaining or losing an electron pairs them all up making things more stable. A radical is usually unstable and not easily formed. Radicals are very reactive.
+4.3K views 6 upvotes
+
+
+
+#
+Profile photo for Ravindra Mohan Bhosale
+Ravindra Mohan Bhosale
+, M.Sc Chemistry - Organic Student at S P College, Pune (2019-present)
+Answered September 9, 2018
+
+Hello everyone,
+
+In Chemistry there lots types of chemical substances according to their nature.
+
+An ion is a species which bears a charge on itself. Charge may be either positive or negative. e.g. Na+ , Ca2+ , Cl- , Br- , CH3COO- , etc.
+
+A radical or mostly free radical is a species with valence or with lone pair of electrons on itself. e.g. CN· , H· , etc.
+
+Regards ,
+
+R. M. Bhosale ,
+
+B. Sc. Chemistry ( APP ).
+1.3K views 3 upvotes
+
+
+#
+Profile photo for Kritika Joshi
+Kritika Joshi
+, Educator at Unacademy
+Answered July 15, 2018
+
+An ion is a species which has either recieved an electron from another atom which is responsible for the development of a negative charge (anion)
+
+If a species loses one of its own electrons to another element it is called a cation(positive charge due to loss of its electron)
+
+On the other hand a free radical is -Imagine a covalent bond between two atoms so that now the bond is broken so that both elements take away their own electron (homogeneous=equal)
+
+So neither gets the other electron,but they take away their own.
+
+Raadical are uncharged species with an unpaired valence electron. If you dissociate Cl2 to two seperate atoms of Cl, they’ll each have an unpaired electron-the electron they originally used to bond with the other Cl. Radicals are highly reactive hence are quite uncommon in nature.
+
+Ions are charged species with more or less electrons than their total number of protons. If they have more electrons than protons, they have a net negative charge and it goes other way round too. Unlike radicals, ions can be fairly stable because all their electrons are paired(exceptions to d-block elements which can be stable even with unpaired valence electrons).
+2.3K views 3 upvotes
+
+
+#
+Profile photo for Aditya Dwivedi
+Aditya Dwivedi
+, studied Chemistry at St. Aloysius High School Kanpur
+Answered July 14, 2018
+
+Originally Answered: What is the difference between a radical and an ion?
+An ion is an atom or molecule that is positively or negatively charged due to the loss or gain of an electron. In order for an atom to be neutral the number of electron orbiting the nucleus must match the number of protons in the nucleus. If these don't match, then we have an ion. So anytime an atom or molecule looses or gains an electron, and the number of electrons no longer match the number of protons, then it is an ion. The result is this atom or molecule now carries a charge, whether it be positive or negative.
+A radical is a molecule or atom that has at least one unpaired electron (one electron is in an orbit by itself), but this moelcule or atom does not carry a charge like an ion because the number of orbiting electrons still matches the number of protons in the nucleus.; however it is very reactive.Elemental nitrogen has an atomic number of 7 with a mass of 14.0067. Therefore, it has a proton number of 7 in the nucleus as determined by subtracting number of electrons from the mass number. Because its number of electrons match the number of protons in its elemental state it cannot be an ion. However, if we check it's shells we get 1S2, 2S2, 2P3. Because there is at least one unpaired electron floating around now in the outermost shell it must be a radical.
+3K views 3 upvotes
+
+
+
+#
+Profile photo for Moksh Grover
+Moksh Grover
+Answered July 3, 2018
+
+When a bond between atoms breaks homolytically it results in formation of radicle.
+
+Heterolytic clevage of a bond results in formation of ions. ..
+927 views 2 upvotes
+
+#
+Profile photo for Ritwij Verma
+Ritwij Verma
+, studied at Seth M. R. Jaipuria School
+Answered February 14, 2018
+
+Originally Answered: What is the difference between ion and radical?
+for the differentiation we need the definition of both the terms:
+
+An ion is a particle with a specific charge. …for eg:sodium ion
+
+But when it comes to a radical it is a group of similar or different particles having a definite charge and behave like a single unit.for eg : ammonium ion .
+
+We can call ion a radical but we cannot call radical an ion.
+1.5K views 1 upvote
+
+#
+Profile photo for Manny Tavano
+Manny Tavano
+, B.S. from Fairleigh Dickinson University (1976)
+Answered February 15, 2018
+
+An ion has either one or more extra electrons or is short one or more electrons, for example sodium chloride added to water will result in Sodium ions which have a +1 charge and Chloride ions which have a -1 charge. A radical on the other hand has no charge but has an unpaired electron in its outer shell making it highly reactive. For more information on radicals see Radical | chemistry.
+1.6K views
+
+
+
+#
+Profile photo for Rahul Kumar
+Rahul Kumar
+, B.tech Using Quora & History, BIT Sindri Dhanbad (2021)
+Answered July 17, 2018
+
+A radical is basically a molecule or atom which contains at least one unpaired electron without carrying any charge . it is very reactive.
+
+But if an atom carries any charge (i.e. positive or negative charge ) then it is known as ion.
+359 views
+
+
+#
+Profile photo for Sumedh Rajarsjhi
+Sumedh Rajarsjhi
+, lives in Mumbai, Maharashtra, India
+Answered January 31, 2019
+
+Ions are charged particle (positive or negative). Radicals are uncharged and can carry an unpaired electron with itself.
+192 views
+
+#
+Profile photo for Girvar Pilaniya
+Girvar Pilaniya
+, M.Sc(AC) Chemistry & Economics, Board of School Education Haryana (2016)
+Answered July 8, 2020
+
+An ion carries a charge, that means that the number of electrons and protons do not match. Electrons have a negative charge and protons have a positive charge.
+
+A radical has an unpaired electron, but does not have a net charge because the number of protons equals the number of electrons.
+279 views
+
+
+#
+Daniel Robert
+, PHD Advance & Expertise, Arts, Sciences & Technology University in Lebanon (2009)
+Answered February 20, 2018
+
+Well A radical is a molecule or atom that has at least one unpaired electron one electron is in an orbit by itself but this molecule or atom does not carry a charge like an ion because the number of orbiting electrons still matches the number of protons in the nucleus . however it is very reactive.
+958 views
+","","",""

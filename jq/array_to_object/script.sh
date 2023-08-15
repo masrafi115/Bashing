@@ -1,0 +1,1 @@
+jq -n '[inputs] | transpose | map({text:.[0] })' tmp.json

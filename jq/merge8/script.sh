@@ -1,0 +1,1 @@
+jq -s 'add | group_by(.EMAIL) | map(add)' $1

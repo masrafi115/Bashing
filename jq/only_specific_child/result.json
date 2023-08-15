@@ -1,0 +1,1872 @@
+{
+  "repo": "termux",
+  "srcname": "ytui-music",
+  "binname": "ytui-music",
+  "visiblename": "ytui-music",
+  "version": "2.0.0-beta",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Youtube client in terminal for music",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xrdp",
+  "binname": "xrdp",
+  "visiblename": "xrdp",
+  "version": "0.9.21.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An open source remote desktop protocol (RDP) server",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-server",
+  "binname": "xorg-server",
+  "visiblename": "xorg-server",
+  "version": "21.1.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Xorg server",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-server-xvfb",
+  "binname": "xorg-server-xvfb",
+  "visiblename": "xorg-server-xvfb",
+  "version": "21.1.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X virtual framebuffer",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "wxmaxima",
+  "binname": "wxmaxima",
+  "visiblename": "wxmaxima",
+  "version": "23.04.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A document based interface for the computer algebra system Maxima",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zpaq",
+  "binname": "zpaq",
+  "visiblename": "zpaq",
+  "version": "7.15",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Programmable file compressor, library and utilities. Based on the PAQ compression algorithm",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-genmon-plugin",
+  "binname": "xfce4-genmon-plugin",
+  "visiblename": "xfce4-genmon-plugin",
+  "version": "4.2.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Display cyclically run script or program output onto the panel",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "wuzz",
+  "binname": "wuzz",
+  "visiblename": "wuzz",
+  "version": "0.5.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Interactive command line tool for HTTP inspection",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yq",
+  "binname": "yq",
+  "visiblename": "yq",
+  "version": "4.33.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A lightweight and portable command-line YAML, JSON and XML processor",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorgproto",
+  "binname": "xorgproto",
+  "visiblename": "xorgproto",
+  "version": "2022.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.Org X11 Protocol headers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-util-xrm",
+  "binname": "xcb-util-xrm",
+  "visiblename": "xcb-util-xrm",
+  "version": "1.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "XCB utility functions for the X resource manager",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "z3",
+  "binname": "z3",
+  "visiblename": "z3",
+  "version": "4.12.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Z3 is a theorem prover from Microsoft Research",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libzimg",
+  "binname": "libzimg",
+  "visiblename": "libzimg",
+  "version": "3.0.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Scaling, colorspace conversion, and dithering library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "liblzma",
+  "binname": "liblzma",
+  "visiblename": "liblzma",
+  "version": "5.4.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "XZ-format compression library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-netload-plugin",
+  "binname": "xfce4-netload-plugin",
+  "visiblename": "xfce4-netload-plugin",
+  "version": "1.4.1",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "network load monitor plugin for the Xfce4 panel",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-calculator-plugin",
+  "binname": "xfce4-calculator-plugin",
+  "visiblename": "xfce4-calculator-plugin",
+  "version": "0.7.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "xfce4-calculator-plugin is a calculator plugin for the Xfce4 panel.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yara",
+  "binname": "yara",
+  "visiblename": "yara",
+  "version": "4.3.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tool aimed at helping malware researchers to identify and classify malware samples",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yarn",
+  "binname": "yarn",
+  "visiblename": "yarn",
+  "version": "1.22.19",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Fast, reliable, and secure dependency management",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yosys",
+  "binname": "yosys",
+  "visiblename": "yosys",
+  "version": "0.28",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A framework for RTL synthesis tools",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libx264",
+  "binname": "libx264",
+  "visiblename": "libx264",
+  "version": "0.164.3101",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Library for encoding video streams into the H.264/MPEG-4 AVC format",
+  "status": "noscheme",
+  "origversion": "1:0.164.3101"
+}
+{
+  "repo": "termux",
+  "srcname": "xvidcore",
+  "binname": "xvidcore",
+  "visiblename": "xvidcore",
+  "version": "1.3.7",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "High performance and high quality MPEG-4 library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xpdf",
+  "binname": "xpdf",
+  "visiblename": "xpdf",
+  "version": "4.04",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Xpdf is an open source viewer for Portable Document Format (PDF) files.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xarchiver",
+  "binname": "xarchiver",
+  "visiblename": "xarchiver",
+  "version": "0.5.4.21",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "GTK+ frontend to various command line archivers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-notes-plugin",
+  "binname": "xfce4-notes-plugin",
+  "visiblename": "xfce4-notes-plugin",
+  "version": "1.10.0",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "Notes application for the Xfce4 desktop",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-taskmanager",
+  "binname": "xfce4-taskmanager",
+  "visiblename": "xfce4-taskmanager",
+  "version": "1.5.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Easy to use task manager",
+  "status": "devel",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-wavelan-plugin",
+  "binname": "xfce4-wavelan-plugin",
+  "visiblename": "xfce4-wavelan-plugin",
+  "version": "0.6.3",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "wavelan status plugin for the Xfce4 panel",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-clipman-plugin",
+  "binname": "xfce4-clipman-plugin",
+  "visiblename": "xfce4-clipman-plugin",
+  "version": "1.6.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Clipman is a clipboard manager for Xfce",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xdg-utils",
+  "binname": "xdg-utils",
+  "visiblename": "xdg-utils",
+  "version": "1.1.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A set of simple scripts that provide basic desktop integration functions for any Free Desktop",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-panel",
+  "binname": "xfce4-panel",
+  "visiblename": "xfce4-panel",
+  "version": "4.18.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Panel for the XFCE environment",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xsel",
+  "binname": "xsel",
+  "visiblename": "xsel",
+  "version": "1.2.1",
+  "maintainers": [
+    "me@doronbehar.com"
+  ],
+  "summary": "Command-line program for getting and setting the contents of the X selection",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-imdkit",
+  "binname": "xcb-imdkit",
+  "visiblename": "xcb-imdkit",
+  "version": "1.0.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An implementation of xim protocol in xcb",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-screensaver",
+  "binname": "xfce4-screensaver",
+  "visiblename": "xfce4-screensaver",
+  "version": "4.18.1",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "Xfce Screensaver is a screen saver and locker that aims to have simple, sane, secure defaults and be well integrated with the desktop.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-session",
+  "binname": "xfce4-session",
+  "visiblename": "xfce4-session",
+  "version": "4.18.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A session manager for XFCE environment",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libyaml-cpp",
+  "binname": "libyaml-cpp",
+  "visiblename": "libyaml-cpp",
+  "version": "0.7.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A YAML parser and emitter in C++ matching the YAML 1.2 spec",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xwayland",
+  "binname": "xwayland",
+  "visiblename": "xwayland",
+  "version": "23.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Wayland X11 server",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libzxing-cpp",
+  "binname": "libzxing-cpp",
+  "visiblename": "libzxing-cpp",
+  "version": "2.0.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An open-source, multi-format 1D/2D barcode image processing library implemented in C++",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zsync",
+  "binname": "zsync",
+  "visiblename": "zsync",
+  "version": "0.6.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A file transfer program to download files from remote web servers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-fonts-100dpi",
+  "binname": "xorg-fonts-100dpi",
+  "visiblename": "xorg-fonts-100dpi",
+  "version": "1.0.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.org 100dpi fonts",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-fonts-75dpi",
+  "binname": "xorg-fonts-75dpi",
+  "visiblename": "xorg-fonts-75dpi",
+  "version": "1.0.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.org 75dpi fonts",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-fonts-alias",
+  "binname": "xorg-fonts-alias",
+  "visiblename": "xorg-fonts-alias",
+  "version": "1.0.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.org font alias files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-fonts-encodings",
+  "binname": "xorg-fonts-encodings",
+  "visiblename": "xorg-fonts-encodings",
+  "version": "1.0.7",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.org font encoding files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libx265",
+  "binname": "libx265",
+  "visiblename": "libx265",
+  "version": "3.5-p20230222",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "H.265/HEVC video stream encoder library",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xmppc",
+  "binname": "xmppc",
+  "visiblename": "xmppc",
+  "version": "0.1.2",
+  "maintainers": [
+    "j.r@jugendhacker.de"
+  ],
+  "summary": "Command Line Interface Tool for XMPP",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "wxwidgets",
+  "binname": "wxwidgets",
+  "visiblename": "wxwidgets",
+  "version": "3.2.2.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A free and open source cross-platform C++ framework for writing advanced GUI applications",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-timer-plugin",
+  "binname": "xfce4-timer-plugin",
+  "visiblename": "xfce4-timer-plugin",
+  "version": "1.7.2",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "alarm and timer module for Xfce panel",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfconf",
+  "binname": "xfconf",
+  "visiblename": "xfconf",
+  "version": "4.18.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Flexible, easy-to-use configuration management system",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "x11-repo",
+  "binname": "x11-repo",
+  "visiblename": "x11-repo",
+  "version": "8.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Package repository containing X11 programs and libraries",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-goodies",
+  "binname": "xfce4-goodies",
+  "visiblename": "xfce4-goodies",
+  "version": "4.16.0",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "this meta-package will install various utilities and programs for the XFCE desktop environment (incomplete!)",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libzopfli",
+  "binname": "libzopfli",
+  "visiblename": "libzopfli",
+  "version": "1.0.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "New zlib compatible compressor library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zipios",
+  "binname": "zipios",
+  "visiblename": "zipios",
+  "version": "2.2.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A small C++ library for reading and writing zip files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-util-macros",
+  "binname": "xorg-util-macros",
+  "visiblename": "xorg-util-macros",
+  "version": "1.20.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.Org Autotools macros",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-eyes-plugin",
+  "binname": "xfce4-eyes-plugin",
+  "visiblename": "xfce4-eyes-plugin",
+  "version": "4.6.0",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "This plugin adds eyes to the Xfce panel which follow your cursor, similar to the xeyes program.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-places-plugin",
+  "binname": "xfce4-places-plugin",
+  "visiblename": "xfce4-places-plugin",
+  "version": "1.8.3",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "This plugin brings much of the functionality of GNOME Places menu to Xfce",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-terminal",
+  "binname": "xfce4-terminal",
+  "visiblename": "xfce4-terminal",
+  "version": "1.0.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Terminal Emulator for the XFCE environment",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libwv",
+  "binname": "libwv",
+  "visiblename": "libwv",
+  "version": "1.2.9",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A library which allows access to Microsoft Word files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xmlstarlet",
+  "binname": "xmlstarlet",
+  "visiblename": "xmlstarlet",
+  "version": "1.6.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Command line XML toolkit",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "youtubedr",
+  "binname": "youtubedr",
+  "visiblename": "youtubedr",
+  "version": "2.8.0",
+  "maintainers": [
+    "kcubeterm@github"
+  ],
+  "summary": "Download youtube video in Golang",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xxhash",
+  "binname": "xxhash",
+  "visiblename": "xxhash",
+  "version": "0.8.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Extremely fast non-cryptographic hash algorithm",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce-theme-manager",
+  "binname": "xfce-theme-manager",
+  "visiblename": "xfce-theme-manager",
+  "version": "3.8",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "Integrated theme manager for xfce4",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xlsfonts",
+  "binname": "xorg-xlsfonts",
+  "visiblename": "xorg-xlsfonts",
+  "version": "1.0.7",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "List available X fonts",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-docklike-plugin",
+  "binname": "xfce4-docklike-plugin",
+  "visiblename": "xfce4-docklike-plugin",
+  "version": "0.4.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A modern, docklike, minimalist taskbar for XFCE",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-whiskermenu-plugin",
+  "binname": "xfce4-whiskermenu-plugin",
+  "visiblename": "xfce4-whiskermenu-plugin",
+  "version": "2.7.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Alternate menu plugin for the Xfce desktop environment",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zenity",
+  "binname": "zenity",
+  "visiblename": "zenity",
+  "version": "3.44.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "a rewrite of gdialog, the GNOME port of dialog",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-proto",
+  "binname": "xcb-proto",
+  "visiblename": "xcb-proto",
+  "version": "1.15.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "XML-XCB protocol descriptions",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zbar",
+  "binname": "zbar",
+  "visiblename": "zbar",
+  "version": "0.23.92",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Software suite for reading bar codes from various sources",
+  "status": "devel",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libminizip",
+  "binname": "libminizip",
+  "visiblename": "libminizip",
+  "version": "1.2.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Mini zip and unzip based on zlib",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zlib",
+  "binname": "zlib",
+  "visiblename": "zlib",
+  "version": "1.2.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Compression library implementing the deflate compression method found in gzip and PKZIP",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xmlto",
+  "binname": "xmlto",
+  "visiblename": "xmlto",
+  "version": "0.0.28",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Convert xml to many other formats",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xpup",
+  "binname": "xpup",
+  "visiblename": "xpup",
+  "version": "2021.12.26",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "pup for XML",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "z-push",
+  "binname": "z-push",
+  "visiblename": "z-push",
+  "version": "2.6.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An open-source application to synchronize ActiveSync compatible devices and Outlook",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xmlsec",
+  "binname": "xmlsec",
+  "visiblename": "xmlsec",
+  "version": "1.2.37",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "XML Security Library",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xournal",
+  "binname": "xournal",
+  "visiblename": "xournal",
+  "version": "0.4.8.2016",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Notetaking and sketching application",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfwm4",
+  "binname": "xfwm4",
+  "visiblename": "xfwm4",
+  "version": "4.18.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Window manager for XFCE environment",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "wren",
+  "binname": "wren",
+  "visiblename": "wren",
+  "version": "0.4.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Small, fast, class-based concurrent scripting language interpreter",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libxapian",
+  "binname": "libxapian",
+  "visiblename": "libxapian",
+  "version": "1.4.22",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Xapian search engine library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xbitmaps",
+  "binname": "xbitmaps",
+  "visiblename": "xbitmaps",
+  "version": "1.1.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.org Bitmap files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-dev-tools",
+  "binname": "xfce4-dev-tools",
+  "visiblename": "xfce4-dev-tools",
+  "version": "4.18.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A collection of tools and macros for Xfce developers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xdpyinfo",
+  "binname": "xorg-xdpyinfo",
+  "visiblename": "xorg-xdpyinfo",
+  "version": "1.3.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Display information utility for X",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-dict",
+  "binname": "xfce4-dict",
+  "visiblename": "xfce4-dict",
+  "version": "0.8.5",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "Dictionary for XFCE desktop",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-appfinder",
+  "binname": "xfce4-appfinder",
+  "visiblename": "xfce4-appfinder",
+  "version": "4.18.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Application launcher and finder",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-datetime-plugin",
+  "binname": "xfce4-datetime-plugin",
+  "visiblename": "xfce4-datetime-plugin",
+  "version": "0.8.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "xfce4-datetime-plugin shows the date and time in the panel; when left-clicked, a popup calendar appears.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xwininfo",
+  "binname": "xorg-xwininfo",
+  "visiblename": "xorg-xwininfo",
+  "version": "1.1.6",
+  "maintainers": [
+    "rkitover@gmail.com"
+  ],
+  "summary": "Utility to print information about X11 windows",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-mailwatch-plugin",
+  "binname": "xfce4-mailwatch-plugin",
+  "visiblename": "xfce4-mailwatch-plugin",
+  "version": "1.3.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Xfce4 Mailwatch Plugin is a multi-protocol, multi-mailbox mail watcher for the Xfce4 panel.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yajl",
+  "binname": "yajl",
+  "visiblename": "yajl",
+  "version": "2.1.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Yet Another JSON Library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfdesktop",
+  "binname": "xfdesktop",
+  "visiblename": "xfdesktop",
+  "version": "4.18.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A desktop manager for XFCE environment",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-notifyd",
+  "binname": "xfce4-notifyd",
+  "visiblename": "xfce4-notifyd",
+  "version": "0.8.2",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "simple, visually-appealing notification daemon for Xfce",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-screenshooter",
+  "binname": "xfce4-screenshooter",
+  "visiblename": "xfce4-screenshooter",
+  "version": "1.10.3",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "The Xfce4-screenshooter is an application that can be used to take snapshots of your desktop screen.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-settings",
+  "binname": "xfce4-settings",
+  "visiblename": "xfce4-settings",
+  "version": "4.18.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Settings manager for XFCE environment",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zsh",
+  "binname": "zsh",
+  "visiblename": "zsh",
+  "version": "5.9",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Shell with lots of features",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xmake",
+  "binname": "xmake",
+  "visiblename": "xmake",
+  "version": "2.7.8",
+  "maintainers": [
+    "waruqi@github"
+  ],
+  "summary": "A cross-platform build utility based on Lua",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xkeyboard-config",
+  "binname": "xkeyboard-config",
+  "visiblename": "xkeyboard-config",
+  "version": "2.38",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X keyboard configuration files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xournalpp",
+  "binname": "xournalpp",
+  "visiblename": "xournalpp",
+  "version": "1.1.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A hand note taking software",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yadm",
+  "binname": "yadm",
+  "visiblename": "yadm",
+  "version": "3.2.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Yet Another Dotfiles Manager",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zellij",
+  "binname": "zellij",
+  "visiblename": "zellij",
+  "version": "0.36.0",
+  "maintainers": [
+    "me@xjonathan.dev"
+  ],
+  "summary": "A terminal workspace with batteries included",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ytfzf",
+  "binname": "ytfzf",
+  "visiblename": "ytfzf",
+  "version": "2.5.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A POSIX script that helps you find Youtube videos (without API)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libzmq",
+  "binname": "libzmq",
+  "visiblename": "libzmq",
+  "version": "4.3.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zmap",
+  "binname": "zmap",
+  "visiblename": "zmap",
+  "version": "3.0.0-beta1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A fast single packet network scanner designed for Internet-wide network surveys",
+  "status": "devel",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zig",
+  "binname": "zig",
+  "visiblename": "zig",
+  "version": "0.9.1",
+  "maintainers": [
+    "leapofazzam123@github"
+  ],
+  "summary": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zssh",
+  "binname": "zssh",
+  "visiblename": "zssh",
+  "version": "1.5c",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A program for interactively transferring files to a remote machine while using the secure shell (ssh)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zoxide",
+  "binname": "zoxide",
+  "visiblename": "zoxide",
+  "version": "0.9.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A faster way to navigate your filesystem",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zstd",
+  "binname": "zstd",
+  "visiblename": "zstd",
+  "version": "1.5.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Zstandard compression",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zziplib",
+  "binname": "zziplib",
+  "visiblename": "zziplib",
+  "version": "0.13.72",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Provides read access to zipped files in a zip-archive, using compression based on free algorithms",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xkbcomp",
+  "binname": "xorg-xkbcomp",
+  "visiblename": "xorg-xkbcomp",
+  "version": "1.4.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X Keyboard description compiler",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "znc",
+  "binname": "znc",
+  "visiblename": "znc",
+  "version": "1.8.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An advanced IRC bouncer",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "wtfutil",
+  "binname": "wtfutil",
+  "visiblename": "wtfutil",
+  "version": "0.43.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "The personal information dashboard for your terminal",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorriso",
+  "binname": "xorriso",
+  "visiblename": "xorriso",
+  "version": "1.5.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tool for creating ISO files",
+  "status": "newest",
+  "origversion": "1:1.5.5"
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xauth",
+  "binname": "xorg-xauth",
+  "visiblename": "xorg-xauth",
+  "version": "1.1.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.Org authorization settings program",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xcalc",
+  "binname": "xorg-xcalc",
+  "visiblename": "xorg-xcalc",
+  "version": "1.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Scientific calculator for X",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "x11vnc",
+  "binname": "x11vnc",
+  "visiblename": "x11vnc",
+  "version": "0.9.16",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "VNC server for real X displays",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-util",
+  "binname": "xcb-util",
+  "visiblename": "xcb-util",
+  "version": "0.4.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Utility libraries for XC Binding",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "x2x",
+  "binname": "x2x",
+  "visiblename": "x2x",
+  "version": "1.30-10",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Allows the keyboard, mouse on one X display to be used to control another X display",
+  "status": "noscheme",
+  "origversion": "1:1.30-10"
+}
+{
+  "repo": "termux",
+  "srcname": "xboard",
+  "binname": "xboard",
+  "visiblename": "xboard",
+  "version": "4.9.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A graphical chessboard for the X Window System",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zile",
+  "binname": "zile",
+  "visiblename": "zile",
+  "version": "2.6.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Lightweight clone of the Emacs text editor",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-util-cursor",
+  "binname": "xcb-util-cursor",
+  "visiblename": "xcb-util-cursor",
+  "version": "0.1.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "XCB cursor library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-util-keysyms",
+  "binname": "xcb-util-keysyms",
+  "visiblename": "xcb-util-keysyms",
+  "version": "0.4.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-util-image",
+  "binname": "xcb-util-image",
+  "visiblename": "xcb-util-image",
+  "version": "0.4.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Utility libraries for XC Binding - Port of Xlib's XImage and XShmImage functions",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-util-renderutil",
+  "binname": "xcb-util-renderutil",
+  "visiblename": "xcb-util-renderutil",
+  "version": "0.3.10",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Utility libraries for XC Binding - Convenience functions for the Render extension",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcb-util-wm",
+  "binname": "xcb-util-wm",
+  "visiblename": "xcb-util-wm",
+  "version": "0.4.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Utility libraries for XC Binding - client and window-manager helpers for ICCCM",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xclock",
+  "binname": "xorg-xclock",
+  "visiblename": "xorg-xclock",
+  "version": "1.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X clock",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xdelta3",
+  "binname": "xdelta3",
+  "visiblename": "xdelta3",
+  "version": "3.1.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "xdelta3 - VCDIFF (RFC 3284) binary diff tool",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xclip",
+  "binname": "xclip",
+  "visiblename": "xclip",
+  "version": "0.13",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "Command line interface to the X11 clipboard",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xcompmgr",
+  "binname": "xcompmgr",
+  "visiblename": "xcompmgr",
+  "version": "1.1.9",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Composite Window-effects manager for X.org",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xdotool",
+  "binname": "xdotool",
+  "visiblename": "xdotool",
+  "version": "3.20211022.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "simulate (generate) X11 keyboard/mouse input events",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xev",
+  "binname": "xorg-xev",
+  "visiblename": "xorg-xev",
+  "version": "1.2.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Print contents of X events",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xf86-video-dummy",
+  "binname": "xf86-video-dummy",
+  "visiblename": "xf86-video-dummy",
+  "version": "0.3.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.org dummy video driver",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xf86-input-void",
+  "binname": "xf86-input-void",
+  "visiblename": "xf86-input-void",
+  "version": "1.4.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X.org void input driver",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xfce4-panel-profiles",
+  "binname": "xfce4-panel-profiles",
+  "visiblename": "xfce4-panel-profiles",
+  "version": "1.0.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A simple application to manage Xfce panel layouts.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xhost",
+  "binname": "xorg-xhost",
+  "visiblename": "xorg-xhost",
+  "version": "1.0.9",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Server access control program for X",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xh",
+  "binname": "xh",
+  "visiblename": "xh",
+  "version": "0.18.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A friendly and fast tool for sending HTTP requests",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xmessage",
+  "binname": "xorg-xmessage",
+  "visiblename": "xorg-xmessage",
+  "version": "1.0.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Display a message or query in a window",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xprop",
+  "binname": "xorg-xprop",
+  "visiblename": "xorg-xprop",
+  "version": "1.2.6",
+  "maintainers": [
+    "rkitover@gmail.com"
+  ],
+  "summary": "Utility to print properties of X11 windows",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xtrans",
+  "binname": "xtrans",
+  "visiblename": "xtrans",
+  "version": "1.4.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X transport library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xrandr",
+  "binname": "xorg-xrandr",
+  "visiblename": "xorg-xrandr",
+  "version": "1.5.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Primitive command line interface to RandR extension",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xrdb",
+  "binname": "xorg-xrdb",
+  "visiblename": "xorg-xrdb",
+  "version": "1.2.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "X server resource database utility",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xorg-xsetroot",
+  "binname": "xorg-xsetroot",
+  "visiblename": "xorg-xsetroot",
+  "version": "1.1.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Classic X utility to set your root window background to a given pattern or color",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "xvkbd",
+  "binname": "xvkbd",
+  "visiblename": "xvkbd",
+  "version": "4.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Virtual keyboard for X window system",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yasm",
+  "binname": "yasm",
+  "visiblename": "yasm",
+  "version": "1.3.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Assembler supporting the x86 and AMD64 instruction sets",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zip",
+  "binname": "zip",
+  "visiblename": "zip",
+  "version": "3.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tools for working with zip files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zeronet",
+  "binname": "zeronet",
+  "visiblename": "zeronet",
+  "version": "0.7.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Decentralized websites using Bitcoin crypto and BitTorrent network",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libzita-convolver",
+  "binname": "libzita-convolver",
+  "visiblename": "libzita-convolver",
+  "version": "4.0.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A real-time C++ convolution library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zzuf",
+  "binname": "zzuf",
+  "visiblename": "zzuf",
+  "version": "2022.05.29",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A transparent application input fuzzer",
+  "status": "incorrect",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "zsh-completions",
+  "binname": "zsh-completions",
+  "visiblename": "zsh-completions",
+  "version": "0.34.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Additional completion definitions for Zsh",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "wrk",
+  "binname": "wrk",
+  "visiblename": "wrk",
+  "version": "4.2.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Modern HTTP benchmarking tool",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "yuma123",
+  "binname": "yuma123",
+  "visiblename": "yuma123",
+  "version": "2.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Provides an opensource YANG API in C",
+  "status": "newest",
+  "origversion": null
+}

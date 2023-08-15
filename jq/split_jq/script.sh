@@ -1,0 +1,1 @@
+jq -Rs 'split("EOT")|map({ text:(.)})' ./*.txt > content.json

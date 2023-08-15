@@ -1,0 +1,32 @@
+[
+  {
+    "EMAIL": "email1@myDomain.com",
+    "INUSE": "1"
+  },
+  {
+    "EMAIL": "email4@myDomain.com",
+    "INUSE": "1"
+  },
+  {
+    "EMAIL": "email7@myDomain.com",
+    "INUSE": "1"
+  },
+  {
+    "EMAIL": "email2@myDomain.com",
+    "INUSE": "3"
+  }
+]
+[
+  {
+    "EMAIL": "email1@myDomain.com",
+    "FREE": "1"
+  },
+  {
+    "EMAIL": "email3@myDomain.com",
+    "FREE": "2"
+  },
+  {
+    "EMAIL": "email4@myDomain.com",
+    "FREE": "2"
+  }
+]

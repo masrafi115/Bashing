@@ -1,0 +1,1 @@
+jq 'unique_by(.caption)' $1

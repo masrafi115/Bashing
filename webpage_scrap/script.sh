@@ -1,0 +1,1 @@
+curl $1 | tidy   -indent   --indent-spaces 2   -quiet   --tidy-mark no > output.txt

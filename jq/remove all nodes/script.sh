@@ -1,0 +1,1 @@
+jq 'del(."114".tafsir)' data.json

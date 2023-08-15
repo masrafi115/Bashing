@@ -1,0 +1,1 @@
+curl -s https://api.github.com/repos/petersenna/codeviz | jq '.size' | numfmt --to=iec --from-unit=1024

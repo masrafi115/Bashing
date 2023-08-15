@@ -1,0 +1,1 @@
+jq -r '.[] | [.id, .type, .name, .ppu] | @csv' $1 > $1.csv

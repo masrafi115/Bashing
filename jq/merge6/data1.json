@@ -1,0 +1,7 @@
+{
+    "class": "country",
+    "country_1": {
+        "class": "city",
+        "name": "seattle"
+    }
+}

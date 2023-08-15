@@ -1,0 +1,1 @@
+sh gen-callgraph.sh libaterm.so | dot -Tpng -ocallgraph.png

@@ -1,0 +1,8 @@
+[{
+  "Address": "myaddress1.com",
+  "Port": 6379
+},
+{
+  "Address": "myaddress2.com",
+  "Port": 6379
+}]

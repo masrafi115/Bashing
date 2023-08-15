@@ -1,0 +1,20 @@
+{
+  "daisy": {
+    "dev": {
+      "app_url": "example.com",
+      "owner": "bob",
+      "createat": "2022-06-17T15:31:58Z"
+    }
+  }
+}
+{
+  "daisy": {
+    "dev": {
+      "appname": "daisy",
+      "flavor": [
+        "nodejs"
+      ],
+      "file": "manifests/daisy.yml"
+    }
+  }
+}

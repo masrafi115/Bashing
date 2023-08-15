@@ -1,0 +1,1 @@
+ls -1R | sed 's/[^\.]*//' | sed 's/.*\.//' | sort | uniq -c

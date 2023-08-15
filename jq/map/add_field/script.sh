@@ -1,0 +1,1 @@
+jq 'map(. + { "FullAddress": "Bedfordshire" })' $1

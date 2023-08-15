@@ -1,0 +1,1 @@
+awk -v RS='{printf "%s%s",$0,(NR%10?",":"\n")}' command.txt

@@ -1,0 +1,1 @@
+jq -Rs . hello.txt | sed 's/ /\\s/g' > escaped.txt

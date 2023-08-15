@@ -1,0 +1,1 @@
+jq -r ' to_entries[] |  {caption: (.value.caption), page: (.value.page)|tonumber}' $1

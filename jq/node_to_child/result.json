@@ -1,0 +1,16 @@
+{
+  "ref": {
+    "id1": {
+      "version": 4,
+      "lastModifier": "abc"
+    },
+    "id2": {
+      "version": 3,
+      "lastModifier": "def"
+    },
+    "id3": {
+      "version": 8,
+      "lastModifier": "abc"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+jq '.country1 = input' $1 $2

@@ -1,0 +1,1 @@
+jq -r '.[].text' notes_all.json | jq 'map({file :.})' > formatted.json

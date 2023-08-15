@@ -1,0 +1,1 @@
+jq 'del(.[].page) | del(.[].url) | del(.[].level) | del(.[].children)' $1

@@ -1,0 +1,1 @@
+jq -Rs '{array:split("\n")|map(split(":")|{(.[0]):.[1]}?)}' ./*.txt

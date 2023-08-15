@@ -1,0 +1,1 @@
+jq '."114".translations = input' $1 $2

@@ -1,0 +1,1 @@
+jq '. as $in | [($in[0] | .field2 = ""), ($in[1:][] | .field2 = $in[.index - 1].field2)][:-1]' data1.json

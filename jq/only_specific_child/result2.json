@@ -1,0 +1,2626 @@
+{
+  "repo": "termux",
+  "srcname": "dnsutils",
+  "binname": "dnsutils",
+  "visiblename": "dnsutils",
+  "version": "9.16.37",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Clients provided with BIND",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aria2",
+  "binname": "aria2",
+  "visiblename": "aria2",
+  "version": "1.36.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bison",
+  "binname": "bison",
+  "visiblename": "bison",
+  "version": "3.8.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "General-purpose parser generator",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cargo-c",
+  "binname": "cargo-c",
+  "visiblename": "cargo-c",
+  "version": "0.9.19",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Cargo C-ABI helpers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "catimg",
+  "binname": "catimg",
+  "visiblename": "catimg",
+  "version": "2.7.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Renders images in the terminal",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bore",
+  "binname": "bore",
+  "visiblename": "bore",
+  "version": "0.5.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Bore is a simple CLI tool for making tunnels to localhost",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "brook",
+  "binname": "brook",
+  "visiblename": "brook",
+  "version": "20230404.5.1",
+  "maintainers": [
+    "kcubeterm@github"
+  ],
+  "summary": "A cross-platform strong encryption and not detectable proxy. Zero-Configuration.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bluefish",
+  "binname": "bluefish",
+  "visiblename": "bluefish",
+  "version": "2.2.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A powerful editor targeted towards programmers and webdevelopers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "abiword",
+  "binname": "abiword",
+  "visiblename": "abiword",
+  "version": "3.0.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A free word processing program",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "automake",
+  "binname": "automake",
+  "visiblename": "automake",
+  "version": "1.16.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tool for automatically generating Makefile.in files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "alembic",
+  "binname": "alembic",
+  "visiblename": "alembic",
+  "version": "1.8.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "apache2",
+  "binname": "apache2",
+  "visiblename": "apache2",
+  "version": "2.4.57",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Apache Web Server",
+  "status": "newest",
+  "origversion": "1:2.4.57"
+}
+{
+  "repo": "termux",
+  "srcname": "attr",
+  "binname": "attr",
+  "visiblename": "attr",
+  "version": "2.5.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Utilities for manipulating filesystem extended attributes",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "appstream-glib",
+  "binname": "appstream-glib",
+  "visiblename": "appstream-glib",
+  "version": "0.8.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Provides GObjects and helper methods to make it easy to read and write AppStream metadata",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "asciidoc",
+  "binname": "asciidoc",
+  "visiblename": "asciidoc",
+  "version": "10.2.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Text document format for short documents, articles, books and UNIX man pages.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "at-spi2-core",
+  "binname": "at-spi2-core",
+  "visiblename": "at-spi2-core",
+  "version": "2.48.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Assistive Technology Service Provider Interface (AT-SPI)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "audacity",
+  "binname": "audacity",
+  "visiblename": "audacity",
+  "version": "2.4.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An easy-to-use, multi-track audio editor and recorder",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "2bwm",
+  "binname": "2bwm",
+  "visiblename": "2bwm",
+  "version": "0.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A fast floating WM",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "below",
+  "binname": "below",
+  "visiblename": "below",
+  "version": "0.6.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An interactive tool to view and record historical system data",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "brainfuck",
+  "binname": "brainfuck",
+  "visiblename": "brainfuck",
+  "version": "2.7.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Brainfuck Interpreter written in C",
+  "status": "newest",
+  "origversion": "1:2.7.3"
+}
+{
+  "repo": "termux",
+  "srcname": "audacious",
+  "binname": "audacious",
+  "visiblename": "audacious",
+  "version": "4.3.1",
+  "maintainers": [
+    "symeon@librehat.com"
+  ],
+  "summary": "An advanced audio player",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aerc",
+  "binname": "aerc",
+  "visiblename": "aerc",
+  "version": "0.15.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A pretty good email client",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "age",
+  "binname": "age",
+  "visiblename": "age",
+  "version": "1.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability",
+  "status": "newest",
+  "origversion": "1:1.1.1"
+}
+{
+  "repo": "termux",
+  "srcname": "amfora",
+  "binname": "amfora",
+  "visiblename": "amfora",
+  "version": "1.9.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Aims to be the best looking Gemini client",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "apt",
+  "binname": "apt",
+  "visiblename": "apt",
+  "version": "2.7.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Front-end for the dpkg package manager",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "calc",
+  "binname": "calc",
+  "visiblename": "calc",
+  "version": "2.14.1.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Arbitrary precision console calculator",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "azpainter",
+  "binname": "azpainter",
+  "visiblename": "azpainter",
+  "version": "3.0.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Full color painting software for Unix-like systems for illustration drawing",
+  "status": "newest",
+  "origversion": "1:3.0.6"
+}
+{
+  "repo": "termux",
+  "srcname": "8086tiny",
+  "binname": "8086tiny",
+  "visiblename": "8086tiny",
+  "version": "1.25",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A PC XT-compatible emulator/virtual machine",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ccextractor",
+  "binname": "ccextractor",
+  "visiblename": "ccextractor",
+  "version": "0.94",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A tool used to produce subtitles for TV recordings",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bk",
+  "binname": "bk",
+  "visiblename": "bk",
+  "version": "0.5.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A terminal EPUB reader",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "blackbox",
+  "binname": "blackbox",
+  "visiblename": "blackbox",
+  "version": "1.20220610",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Safely store secrets in Git/Mercurial/Subversion",
+  "status": "outdated",
+  "origversion": "1:1.20220610"
+}
+{
+  "repo": "termux",
+  "srcname": "anewer",
+  "binname": "anewer",
+  "visiblename": "anewer",
+  "version": "0.1.6",
+  "maintainers": [
+    "flosnvjx@github"
+  ],
+  "summary": "Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "blade",
+  "binname": "blade",
+  "visiblename": "blade",
+  "version": "0.0.81",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A simple, fast, clean and dynamic language",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cairo-dock-core",
+  "binname": "cairo-dock-core",
+  "visiblename": "cairo-dock-core",
+  "version": "3.4.1",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "Cairo-Dock is a simple and avanzed dock for linux desktop.",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ant",
+  "binname": "ant",
+  "visiblename": "ant",
+  "version": "1.10.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Java based build tool like make",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "awesome",
+  "binname": "awesome",
+  "visiblename": "awesome",
+  "version": "2023.01.16",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A highly configurable, next generation framework window manager for X",
+  "status": "incorrect",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "axel",
+  "binname": "axel",
+  "visiblename": "axel",
+  "version": "2.17.11",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "light command line download accelerator",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "autoconf",
+  "binname": "autoconf",
+  "visiblename": "autoconf",
+  "version": "2.71",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Creator of shell scripts to configure source code packages",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "autoconf213",
+  "binname": "autoconf213",
+  "visiblename": "autoconf213",
+  "version": "2.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Creator of shell scripts to configure source code packages (legacy v2.13)",
+  "status": "legacy",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "abseil-cpp",
+  "binname": "abseil-cpp",
+  "visiblename": "abseil-cpp",
+  "version": "20230125.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Abseil C++ Common Libraries",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ardour",
+  "binname": "ardour",
+  "visiblename": "ardour",
+  "version": "7.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A professional digital workstation for working with audio and MIDI",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "2048-c",
+  "binname": "2048-c",
+  "visiblename": "2048-c",
+  "version": "2022.10.23",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Console version of the game '2048' for GNU/Linux",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "astra-sm",
+  "binname": "astra-sm",
+  "visiblename": "astra-sm",
+  "version": "2019.06.19",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Software for digital TV broadcasting",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ceu-lang",
+  "binname": "ceu-lang",
+  "visiblename": "ceu-lang",
+  "version": "2019.07.17",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "The Structured Synchronous Reactive Programming Language Céu",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aspell",
+  "binname": "aspell",
+  "visiblename": "aspell",
+  "version": "0.60.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A free and open source spell checker designed to replace Ispell",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "antibody",
+  "binname": "antibody",
+  "visiblename": "antibody",
+  "version": "6.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "The fastest shell plugin manager",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cadaver",
+  "binname": "cadaver",
+  "visiblename": "cadaver",
+  "version": "0.24",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A command-line WebDAV client for Unix",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "audacious-plugins",
+  "binname": "audacious-plugins",
+  "visiblename": "audacious-plugins",
+  "version": "4.3.1",
+  "maintainers": [
+    "symeon@librehat.com"
+  ],
+  "summary": "Plugins for Audacious",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bacula-fd",
+  "binname": "bacula-fd",
+  "visiblename": "bacula-fd",
+  "version": "13.0.3",
+  "maintainers": [
+    "matlink@matlink.fr"
+  ],
+  "summary": "Bacula backup software",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cantata",
+  "binname": "cantata",
+  "visiblename": "cantata",
+  "version": "2.5.0",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "Qt client for the music player daemon (MPD)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ack-grep",
+  "binname": "ack-grep",
+  "visiblename": "ack-grep",
+  "version": "3.7.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tool like grep optimized for programmers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "agg",
+  "binname": "agg",
+  "visiblename": "agg",
+  "version": "1.4.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "asciinema gif generator",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "await",
+  "binname": "await",
+  "visiblename": "await",
+  "version": "0.91",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Runs list of commands in parallel and waits for their termination",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aalib",
+  "binname": "aalib",
+  "visiblename": "aalib",
+  "version": "1.4rc5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A portable ASCII art graphic library",
+  "status": "devel",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "2ping",
+  "binname": "2ping",
+  "visiblename": "2ping",
+  "version": "4.5.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A bi-directional ping utility",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "adwaita-qt",
+  "binname": "adwaita-qt",
+  "visiblename": "adwaita-qt",
+  "version": "1.4.2",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "A style to bend Qt applications to look like they belong into GNOME Shell",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bindfs",
+  "binname": "bindfs",
+  "visiblename": "bindfs",
+  "version": "1.17.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A FUSE filesystem for mirroring a directory to another directory.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "android-tools",
+  "binname": "android-tools",
+  "visiblename": "android-tools",
+  "version": "34.0.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Android platform tools",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ani-cli",
+  "binname": "ani-cli",
+  "visiblename": "ani-cli",
+  "version": "4.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A cli to browse and watch anime",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "apr-util",
+  "binname": "apr-util",
+  "visiblename": "apr-util",
+  "version": "1.6.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Apache Portable Runtime Utility Library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "at",
+  "binname": "at",
+  "visiblename": "at",
+  "version": "3.2.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "AT and batch delayed command scheduling utility and daemon",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "biber",
+  "binname": "biber",
+  "visiblename": "biber",
+  "version": "2.18",
+  "maintainers": [
+    "grimler91@github"
+  ],
+  "summary": "A Unicode-capable BibTeX replacement for biblatex users",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "1oom",
+  "binname": "1oom",
+  "visiblename": "1oom",
+  "version": "1.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A Master of Orion (1993) game engine recreation",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "assimp",
+  "binname": "assimp",
+  "visiblename": "assimp",
+  "version": "5.2.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Library to import various well-known 3D model formats in an uniform manner",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aubio",
+  "binname": "aubio",
+  "visiblename": "aubio",
+  "version": "0.4.9",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A library to label music and sounds",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bastet",
+  "binname": "bastet",
+  "visiblename": "bastet",
+  "version": "0.43.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tetris clone with 'bastard' block-choosing AI",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libcairo",
+  "binname": "libcairo",
+  "visiblename": "libcairo",
+  "version": "1.17.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Cairo 2D vector graphics library",
+  "status": "devel",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bsd-games",
+  "binname": "bsd-games",
+  "visiblename": "bsd-games",
+  "version": "3.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Classic text mode games from UNIX folklore",
+  "status": "newest",
+  "origversion": "1:3.3"
+}
+{
+  "repo": "termux",
+  "srcname": "libbullet",
+  "binname": "libbullet",
+  "visiblename": "libbullet",
+  "version": "3.25",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aterm",
+  "binname": "aterm",
+  "visiblename": "aterm",
+  "version": "1.0.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An xterm replacement with transparency support",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "atuin",
+  "binname": "atuin",
+  "visiblename": "atuin",
+  "version": "14.0.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Magical shell history",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "byacc",
+  "binname": "byacc",
+  "visiblename": "byacc",
+  "version": "20230219",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "byacc is generally conceded to be the best yacc variant available",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ayatana-ido",
+  "binname": "ayatana-ido",
+  "visiblename": "ayatana-ido",
+  "version": "0.9.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Ayatana Indicator Display Objects",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bash-completion",
+  "binname": "bash-completion",
+  "visiblename": "bash-completion",
+  "version": "2.11",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Programmable completion for the bash shell",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bat",
+  "binname": "bat",
+  "visiblename": "bat",
+  "version": "0.23.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A cat(1) clone with wings",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "biboumi",
+  "binname": "biboumi",
+  "visiblename": "biboumi",
+  "version": "9.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An XMPP gateway that connects to IRC servers and translates between the two protocols",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bitcoin",
+  "binname": "bitcoin",
+  "visiblename": "bitcoin",
+  "version": "24.0.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Bitcoin Core",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bubblewrap",
+  "binname": "bubblewrap",
+  "visiblename": "bubblewrap",
+  "version": "0.8.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Unprivileged sandboxing tool",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libbz2",
+  "binname": "libbz2",
+  "visiblename": "libbz2",
+  "version": "1.0.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "BZ2 format compression library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "busybox",
+  "binname": "busybox",
+  "visiblename": "busybox",
+  "version": "1.36.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tiny versions of many common UNIX utilities into a single small executable",
+  "status": "devel",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "c-ares",
+  "binname": "c-ares",
+  "visiblename": "c-ares",
+  "version": "1.19.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Library for asynchronous DNS requests (including name resolves)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cabextract",
+  "binname": "cabextract",
+  "visiblename": "cabextract",
+  "version": "1.11",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A program to extract Microsoft cabinet (.CAB) files",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "caddy",
+  "binname": "caddy",
+  "visiblename": "caddy",
+  "version": "2.6.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Fast, cross-platform HTTP/2 web server",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "calcurse",
+  "binname": "calcurse",
+  "visiblename": "calcurse",
+  "version": "4.8.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "calcurse is a calendar and scheduling application for the command line",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libccid",
+  "binname": "libccid",
+  "visiblename": "libccid",
+  "version": "1.5.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A generic USB CCID (Chip/Smart Card Interface Devices) driver and ICCD (Integrated Circuit(s) Card Devices).",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ccache",
+  "binname": "ccache",
+  "visiblename": "ccache",
+  "version": "4.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Compiler cache for fast recompilation of C/C++ code",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ccrypt",
+  "binname": "ccrypt",
+  "visiblename": "ccrypt",
+  "version": "1.11",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Secure encryption and decryption of files and streams utility",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libcdk",
+  "binname": "libcdk",
+  "visiblename": "libcdk",
+  "version": "5.0-20230201",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Curses Development Kit",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "argon2",
+  "binname": "argon2",
+  "visiblename": "argon2",
+  "version": "20190702",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A password-hashing function (reference C implementation)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "atomicparsley",
+  "binname": "atomicparsley",
+  "visiblename": "atomicparsley",
+  "version": "20221229.172126.d813aa6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Read, parse and set metadata of MPEG-4 and 3gp files",
+  "status": "newest",
+  "origversion": "1:20221229.172126.d813aa6"
+}
+{
+  "repo": "termux",
+  "srcname": "broot",
+  "binname": "broot",
+  "visiblename": "broot",
+  "version": "1.21.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A better way to navigate directories",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "caja",
+  "binname": "caja",
+  "visiblename": "caja",
+  "version": "1.26.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "The file manager for the MATE desktop",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "avrdude",
+  "binname": "avrdude",
+  "visiblename": "avrdude",
+  "version": "7.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Software for programming Microchip (former Atmel) AVR Microcontrollers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "7zip",
+  "binname": "7zip",
+  "visiblename": "7zip",
+  "version": "22.01",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "7-Zip file archiver with a high compression ratio",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "0verkill",
+  "binname": "0verkill",
+  "visiblename": "0verkill",
+  "version": "0.16-git",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Bloody 2D action deathmatch-like game in ASCII-ART",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "6tunnel",
+  "binname": "6tunnel",
+  "visiblename": "6tunnel",
+  "version": "0.13",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "abook",
+  "binname": "abook",
+  "visiblename": "abook",
+  "version": "0.6.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Abook is a text-based addressbook program designed to use with mutt mail client",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aha",
+  "binname": "aha",
+  "visiblename": "aha",
+  "version": "0.5.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Converts ANSI escape sequences of a unix terminal to HTML code",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "adms",
+  "binname": "adms",
+  "visiblename": "adms",
+  "version": "2.3.7",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A code generator for the Verilog-AMS language",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "barcode",
+  "binname": "barcode",
+  "visiblename": "barcode",
+  "version": "0.99",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tool to convert text strings to printed bars",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aichat",
+  "binname": "aichat",
+  "visiblename": "aichat",
+  "version": "0.8.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A powerful chatgpt cli",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "at-spi2-atk",
+  "binname": "at-spi2-atk",
+  "visiblename": "at-spi2-atk",
+  "version": "2.48.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A metapackage that installs at-spi2-core",
+  "status": "incorrect",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "byobu",
+  "binname": "byobu",
+  "visiblename": "byobu",
+  "version": "5.133",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "alpine",
+  "binname": "alpine",
+  "visiblename": "alpine",
+  "version": "2.26",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Fast, easy to use email client",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "anacron",
+  "binname": "anacron",
+  "visiblename": "anacron",
+  "version": "2.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A periodic command scheduler",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "angband",
+  "binname": "angband",
+  "visiblename": "angband",
+  "version": "4.2.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Dungeon exploration adventure game",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "angle-grinder",
+  "binname": "angle-grinder",
+  "visiblename": "angle-grinder",
+  "version": "0.19.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Slice and dice logs on the command line",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "liba52",
+  "binname": "liba52",
+  "visiblename": "liba52",
+  "version": "0.7.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A free library for decoding ATSC A/52 streams",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "arj",
+  "binname": "arj",
+  "visiblename": "arj",
+  "version": "3.10.22",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Open-source version of arj archiver",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aspell-de",
+  "binname": "aspell-de",
+  "visiblename": "aspell-de",
+  "version": "20161207",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "German dictionary for aspell",
+  "status": "outdated",
+  "origversion": "1:20161207"
+}
+{
+  "repo": "termux",
+  "srcname": "libcommons-lang3-java",
+  "binname": "libcommons-lang3-java",
+  "visiblename": "libcommons-lang3-java",
+  "version": "3.12.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A host of helper utilities for the java.lang API",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "atool",
+  "binname": "atool",
+  "visiblename": "atool",
+  "version": "0.39.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "tool for managing file archives of various types",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "arqiver",
+  "binname": "arqiver",
+  "visiblename": "arqiver",
+  "version": "0.11.0",
+  "maintainers": [
+    "dev.yisus@hotmail.com"
+  ],
+  "summary": "A simple Qt archiver manager based on libarchive",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aspell-en",
+  "binname": "aspell-en",
+  "visiblename": "aspell-en",
+  "version": "2020.12.07",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "English dictionary for aspell",
+  "status": "newest",
+  "origversion": "1:2020.12.07"
+}
+{
+  "repo": "termux",
+  "srcname": "aspell-es",
+  "binname": "aspell-es",
+  "visiblename": "aspell-es",
+  "version": "1.11-2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Spanish dictionary for aspell",
+  "status": "newest",
+  "origversion": "2:1.11-2"
+}
+{
+  "repo": "termux",
+  "srcname": "aspell-fr",
+  "binname": "aspell-fr",
+  "visiblename": "aspell-fr",
+  "version": "0.50-3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "French dictionary for aspell",
+  "status": "newest",
+  "origversion": "2:0.50-3"
+}
+{
+  "repo": "termux",
+  "srcname": "atk",
+  "binname": "atk",
+  "visiblename": "atk",
+  "version": "2.48.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A metapackage that installs at-spi2-core",
+  "status": "incorrect",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "autossh",
+  "binname": "autossh",
+  "visiblename": "autossh",
+  "version": "1.4g",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Automatically restart SSH sessions and tunnels",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "autojump",
+  "binname": "autojump",
+  "visiblename": "autojump",
+  "version": "22.5.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A faster way to navigate your filesystem",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "avra",
+  "binname": "avra",
+  "visiblename": "avra",
+  "version": "1.4.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Assember for the Atmel AVR microcontroller family",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bdftopcf",
+  "binname": "bdftopcf",
+  "visiblename": "bdftopcf",
+  "version": "1.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "convert X font from Bitmap Distribution Format to Portable Compiled Format",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bcal",
+  "binname": "bcal",
+  "visiblename": "bcal",
+  "version": "2.4",
+  "maintainers": [
+    "fervi@github"
+  ],
+  "summary": "Command-line utility for storage conversions and calculations",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "apr",
+  "binname": "apr",
+  "visiblename": "apr",
+  "version": "1.7.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Apache Portable Runtime Library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bftpd",
+  "binname": "bftpd",
+  "visiblename": "bftpd",
+  "version": "6.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Small, easy-to-configure FTP server",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bvi",
+  "binname": "bvi",
+  "visiblename": "bvi",
+  "version": "1.4.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Binary file editor based on vi",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "abootimg",
+  "binname": "abootimg",
+  "visiblename": "abootimg",
+  "version": "0.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Pack or unpack android boot images",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "b3sum",
+  "binname": "b3sum",
+  "visiblename": "b3sum",
+  "version": "1.3.3",
+  "maintainers": [
+    "medzikuser@github"
+  ],
+  "summary": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bitlbee",
+  "binname": "bitlbee",
+  "visiblename": "bitlbee",
+  "version": "3.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An IRC to other chat networks gateway",
+  "status": "newest",
+  "origversion": "3.6-1"
+}
+{
+  "repo": "termux",
+  "srcname": "libgc",
+  "binname": "libgc",
+  "visiblename": "libgc",
+  "version": "8.2.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Library providing the Boehm-Demers-Weiser conservative garbage collector",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "asymptote",
+  "binname": "asymptote",
+  "visiblename": "asymptote",
+  "version": "2.85",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A powerful descriptive vector graphics language for technical drawing",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bmon",
+  "binname": "bmon",
+  "visiblename": "bmon",
+  "version": "4.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Bandwidth monitor and rate estimator",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bochs",
+  "binname": "bochs",
+  "visiblename": "bochs",
+  "version": "2.7",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Bochs is a highly portable open source IA-32 (x86) PC emulator and debugger written in C++.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "brogue",
+  "binname": "brogue",
+  "visiblename": "brogue",
+  "version": "1.12",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Roguelike dungeon crawling game (community edition)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "boxes",
+  "binname": "boxes",
+  "visiblename": "boxes",
+  "version": "2.2.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A command line filter program which draws ASCII art boxes around your input text",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bspwm",
+  "binname": "bspwm",
+  "visiblename": "bspwm",
+  "version": "0.9.10",
+  "maintainers": [
+    "leapofazzam123@github"
+  ],
+  "summary": "A tiling window manager based on binary space partitioning",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "c-script",
+  "binname": "c-script",
+  "visiblename": "c-script",
+  "version": "0.14",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Compile and execute C 'scripts' in one go!",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "catdoc",
+  "binname": "catdoc",
+  "visiblename": "catdoc",
+  "version": "0.95",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Program which reads MS-Word file and prints readable ASCII text to stdout",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cccc",
+  "binname": "cccc",
+  "visiblename": "cccc",
+  "version": "3.2.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Source code counter and metrics tool for C++, C, and Java",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "catgirl",
+  "binname": "catgirl",
+  "visiblename": "catgirl",
+  "version": "2.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A TLS-only terminal IRC client",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cavez-of-phear",
+  "binname": "cavez-of-phear",
+  "visiblename": "cavez-of-phear",
+  "version": "0.6.1",
+  "maintainers": [
+    "amdmi3@amdmi3.ru"
+  ],
+  "summary": "A Boulder Dash like game for consoles/terminals",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cbonsai",
+  "binname": "cbonsai",
+  "visiblename": "cbonsai",
+  "version": "1.3.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Grow bonsai trees in your terminal",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cc65",
+  "binname": "cc65",
+  "visiblename": "cc65",
+  "version": "2.19",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A free compiler for 6502 based system",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ccls",
+  "binname": "ccls",
+  "visiblename": "ccls",
+  "version": "0.20220729",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "C/C++/ObjC language server",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "asciidoctor",
+  "binname": "asciidoctor",
+  "visiblename": "asciidoctor",
+  "version": "2.0.18",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "An implementation of AsciiDoc in Ruby",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libaom",
+  "binname": "libaom",
+  "visiblename": "libaom",
+  "version": "3.6.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "AV1 Video Codec Library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aview",
+  "binname": "aview",
+  "visiblename": "aview",
+  "version": "1.3.0rc1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "High quality ascii-art image browser and animation player",
+  "status": "devel",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "babl",
+  "binname": "babl",
+  "visiblename": "babl",
+  "version": "0.1.104",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Dynamic pixel format translation library",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "boost",
+  "binname": "boost",
+  "visiblename": "boost",
+  "version": "1.82.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Free peer-reviewed portable C++ source libraries",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "binutils-libs",
+  "binname": "binutils-libs",
+  "visiblename": "binutils-libs",
+  "version": "2.40",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "GNU Binutils libraries",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "binaryen",
+  "binname": "binaryen",
+  "visiblename": "binaryen",
+  "version": "112",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "arp-scan",
+  "binname": "arp-scan",
+  "visiblename": "arp-scan",
+  "version": "1.10.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "arp-scan is a command-line tool for system discovery and fingerprinting. It constructs and sends ARP requests to the specified IP addresses, and displays any responses that are received.",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "avahi",
+  "binname": "avahi",
+  "visiblename": "avahi",
+  "version": "0.8",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A system for service discovery on a local network via mDNS/DNS-SD",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "brotli",
+  "binname": "brotli",
+  "visiblename": "brotli",
+  "version": "1.0.9",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "lossless compression algorithm and format (command line utility)",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aapt",
+  "binname": "aapt",
+  "visiblename": "aapt",
+  "version": "13.0.0.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Android Asset Packaging Tool",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "binutils-is-llvm",
+  "binname": "binutils-is-llvm",
+  "visiblename": "binutils-is-llvm",
+  "version": "0.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Use llvm as binutils",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "abduco",
+  "binname": "abduco",
+  "visiblename": "abduco",
+  "version": "0.6",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Clean and simple terminal session manager",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libcairomm-1.0",
+  "binname": "libcairomm-1.0",
+  "visiblename": "libcairomm-1.0",
+  "version": "1.14.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Provides a C++ interface to cairo",
+  "status": "legacy",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libcairomm-1.16",
+  "binname": "libcairomm-1.16",
+  "visiblename": "libcairomm-1.16",
+  "version": "1.16.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Provides a C++ interface to cairo",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "libatkmm-1.6",
+  "binname": "libatkmm-1.6",
+  "visiblename": "libatkmm-1.6",
+  "version": "2.28.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "The C++ binding for the ATK library",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "apkeep",
+  "binname": "apkeep",
+  "visiblename": "apkeep",
+  "version": "0.15.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A command-line tool for downloading APK files from various sources",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cavif-rs",
+  "binname": "cavif-rs",
+  "visiblename": "cavif-rs",
+  "version": "1.5.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "AVIF image creator in pure Rust",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "atomvm",
+  "binname": "atomvm",
+  "visiblename": "atomvm",
+  "version": "0.5.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "The minimal Erlang VM implementation",
+  "status": "unique",
+  "origversion": "1:0.5.0"
+}
+{
+  "repo": "termux",
+  "srcname": "awesomeshot",
+  "binname": "awesomeshot",
+  "visiblename": "awesomeshot",
+  "version": "1.1.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A command-line screenshot tool written in bash",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "blink",
+  "binname": "blink",
+  "visiblename": "blink",
+  "version": "2023.04.20-git",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Tiny x86-64 Linux emulator",
+  "status": "ignored",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "blogc",
+  "binname": "blogc",
+  "visiblename": "blogc",
+  "version": "0.20.1",
+  "maintainers": [
+    "rafaelmartins@github"
+  ],
+  "summary": "A blog compiler",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "algernon",
+  "binname": "algernon",
+  "visiblename": "algernon",
+  "version": "1.14.0-p20230301",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "beanshell",
+  "binname": "beanshell",
+  "visiblename": "beanshell",
+  "version": "2.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "botan",
+  "binname": "botan",
+  "visiblename": "botan",
+  "version": "2.19.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Crypto and TLS for Modern C++",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "python-pyarrow",
+  "binname": "python-pyarrow",
+  "visiblename": "python-pyarrow",
+  "version": "12.0.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Python bindings for Apache Arrow",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "boinc",
+  "binname": "boinc",
+  "visiblename": "boinc",
+  "version": "7.22.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Open-source software for volunteer computing",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "capnproto",
+  "binname": "capnproto",
+  "visiblename": "capnproto",
+  "version": "0.10.4",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Data interchange format and capability-based RPC system",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "base16384",
+  "binname": "base16384",
+  "visiblename": "base16384",
+  "version": "2.2.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Encode binary to printable utf16be",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bgrep",
+  "binname": "bgrep",
+  "visiblename": "bgrep",
+  "version": "1.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Binary string grep tool",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "amber",
+  "binname": "amber",
+  "visiblename": "amber",
+  "version": "0.5.9",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A code search / replace tool",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "adwaita-icon-theme-legacy",
+  "binname": "adwaita-icon-theme-legacy",
+  "visiblename": "adwaita-icon-theme-legacy",
+  "version": "43",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Legacy icons for adwaita-icon-theme",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "adwaita-icon-theme",
+  "binname": "adwaita-icon-theme",
+  "visiblename": "adwaita-icon-theme",
+  "version": "44.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "GNOME standard icons",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "ca-certificates",
+  "binname": "ca-certificates",
+  "visiblename": "ca-certificates",
+  "version": "2023.01.10",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Common CA certificates",
+  "status": "outdated",
+  "origversion": "1:2023.01.10"
+}
+{
+  "repo": "termux",
+  "srcname": "alist",
+  "binname": "alist",
+  "visiblename": "alist",
+  "version": "3.16.3",
+  "maintainers": [
+    "admin@utermux.dev"
+  ],
+  "summary": "A file list program that supports multiple storage",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bdsup2sub",
+  "binname": "bdsup2sub",
+  "visiblename": "bdsup2sub",
+  "version": "4.0.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A subtitle conversion tool for image based stream formats",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "btfs2",
+  "binname": "btfs2",
+  "visiblename": "btfs2",
+  "version": "2.3.1",
+  "maintainers": [
+    "cctechmx@gmail.com"
+  ],
+  "summary": "Decentralized file system integrating with TRON network and Bittorrent network",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "badvpn-udpgw",
+  "binname": "badvpn-udpgw",
+  "visiblename": "badvpn-udpgw",
+  "version": "1.999.130",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "UDP gateway for BadVPN",
+  "status": "unique",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "alass",
+  "binname": "alass",
+  "visiblename": "alass",
+  "version": "2.0.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Automatic Language-Agnostic Subtitle Synchronization",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "boomerang",
+  "binname": "boomerang",
+  "visiblename": "boomerang",
+  "version": "0.5.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A general, open source machine code decompiler",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "aptly",
+  "binname": "aptly",
+  "visiblename": "aptly",
+  "version": "1.5.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A Swiss Army knife for Debian repository management",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bash",
+  "binname": "bash",
+  "visiblename": "bash",
+  "version": "5.2.p15",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)",
+  "status": "newest",
+  "origversion": "5.2.15"
+}
+{
+  "repo": "termux",
+  "srcname": "asciinema",
+  "binname": "asciinema",
+  "visiblename": "asciinema",
+  "version": "2.2.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Record and share your terminal sessions, the right way",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "autoconf-archive",
+  "binname": "autoconf-archive",
+  "visiblename": "autoconf-archive",
+  "version": "2023.02.20",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A collection of freely re-usable Autoconf macros",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "borgbackup",
+  "binname": "borgbackup",
+  "visiblename": "borgbackup",
+  "version": "1.1.17",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Deduplicating and compressing backup program",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bombadillo",
+  "binname": "bombadillo",
+  "visiblename": "bombadillo",
+  "version": "2.4.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A non-web client for the terminal, supporting Gopher, Gemini and much more",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "buf",
+  "binname": "buf",
+  "visiblename": "buf",
+  "version": "1.17.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A new way of working with Protocol Buffers",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cabal-install",
+  "binname": "cabal-install",
+  "visiblename": "cabal-install",
+  "version": "3.8.1.0",
+  "maintainers": [
+    "alok@termux.dev"
+  ],
+  "summary": "The command-line interface for Haskell-Cabal and Hackage",
+  "status": "outdated",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "capstone",
+  "binname": "capstone",
+  "visiblename": "capstone",
+  "version": "4.0.2",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Lightweight multi-platform, multi-architecture disassembly framework",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cava",
+  "binname": "cava",
+  "visiblename": "cava",
+  "version": "0.8.3",
+  "maintainers": [
+    "neo-oli@github"
+  ],
+  "summary": "Console-based Audio Visualizer. Works with MPD and Pulseaudio",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "cboard",
+  "binname": "cboard",
+  "visiblename": "cboard",
+  "version": "0.7.5",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "PGN browser, editor and chess engine frontend",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "argp",
+  "binname": "argp",
+  "visiblename": "argp",
+  "version": "1.5.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Standalone version of arguments parsing functions from GLIBC",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "acr",
+  "binname": "acr",
+  "visiblename": "acr",
+  "version": "2.1.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A fully compatible autoconf replacement",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "apksigner",
+  "binname": "apksigner",
+  "visiblename": "apksigner",
+  "version": "33.0.1",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "APK signing tool from Android SDK",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "apt-file",
+  "binname": "apt-file",
+  "visiblename": "apt-file",
+  "version": "3.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "search for files within packages",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "authbind",
+  "binname": "authbind",
+  "visiblename": "authbind",
+  "version": "2.1.3",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "Bind sockets to privileged ports without root",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "boinctui",
+  "binname": "boinctui",
+  "visiblename": "boinctui",
+  "version": "2.7.0",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "curses based manager for Boinc client",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "bsd-finger",
+  "binname": "bsd-finger",
+  "visiblename": "bsd-finger",
+  "version": "0.17",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "User information lookup program",
+  "status": "newest",
+  "origversion": null
+}
+{
+  "repo": "termux",
+  "srcname": "antiword",
+  "binname": "antiword",
+  "visiblename": "antiword",
+  "version": "0.37",
+  "maintainers": [
+    "termux@github"
+  ],
+  "summary": "A free MS Word reader",
+  "status": "newest",
+  "origversion": null
+}

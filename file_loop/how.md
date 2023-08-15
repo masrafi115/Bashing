@@ -1,0 +1,1 @@
+source /storage/emulated/0/Shell/.bashrc

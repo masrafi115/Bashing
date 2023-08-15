@@ -1,0 +1,1 @@
+printf '%s\n\t%s\n' 'Host localhost' 'ForwardAgent yes' >> file.txt

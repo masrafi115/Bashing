@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta name="description" content="Information on all packages for project wren">
+	<meta name="keywords" content="repository, package, packages, version, wren">
+	<meta name="author" content="Dmitry Marakasov">
+	<title>wren packages - Repology</title>
+	<link rel="stylesheet" href="/static/bootstrap.min.v3.3.7.css">
+	<link rel="stylesheet" href="/static/repology.v21.css">
+	<link rel="icon" href="/static/repology.v1.ico" sizes="16x16 32x32 64x64" type="image/x-icon">
+	<link rel="search" type="application/opensearchdescription+xml" title="Repology packages" href="/opensearch/project.xml">
+	<link rel="search" type="application/opensearchdescription+xml" title="Repology maintainers" href="/opensearch/maintainer.xml">
+</head>
+<body>
+
+
+<nav class="navbar navbar-default navbar-static-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#repology-navbar-collapse" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="/">
+				<img alt="Repology" src="/static/repology40x40.v1.png" width="40" height="40">
+			</a>
+		</div>
+
+		<div class="collapse navbar-collapse" id="repology-navbar-collapse">
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="/projects/">Projects</a></li>
+				<li><a href="/maintainers/">Maintainers</a></li>
+				<li><a href="/repositories/statistics">Repositories</a></li>
+				<li><a href="/tools">Tools</a></li>
+				<li><a href="/security/recent-cves">Security</a></li>
+			</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="/news">News</a></li>
+				<li><a href="/docs">Docs</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<div class="container">
+<div class="btn-group pageheader-right">
+	<a href="/project/wren/versions" class="btn btn-default">Versions</a>
+	<a href="/project/wren/packages" class="btn btn-default active">Packages</a>
+	<a href="/project/wren/information" class="btn btn-default">Information</a>
+	<a href="/project/wren/history" class="btn btn-default">History</a>
+	<a href="/project/wren/related" class="btn btn-default">Related</a>
+	<a href="/project/wren/badges" class="btn btn-default">Badges</a>
+	<a href="/project/wren/report" class="btn btn-default"><span class="text-danger">Report</span></a>
+</div>
+	<h1 class="page-header">Packages for <strong>wren</strong></h1>
+</div>
+
+
+<div class="container">
+
+<p><b>7</b> package(s) known</p>
+
+<div class="row">
+	<div class="col-md-4">
+		<div class="panel panel-version-newest">
+			<div class="panel-heading">
+				<div class="package-repository">
+				<a class="panel-heading-link" href="/repository/aur">AUR</a></div>
+				<h3 class="package-name">wren</h3>
+				<div class="package-version"><span class="">0.4.0</span> (0.4.0-1)</div>
+			</div>
+			<ul class="list-group">
+				<li class="list-group-item"><b>Summary:</b><br>Small, fast, class-based concurrent scripting language.</li>
+				<li class="list-group-item"><b>Maintainer:</b>
+					<ul class="list-package-details">
+						<li><a href="/maintainer/techcable%40aur">techcable@aur</a></li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>License:</b>
+					<ul class="list-package-details">
+						<li>MIT</li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>Link(s):</b>
+					<ul class="list-package-details">
+						<li><a href="https://aur.archlinux.org/packages/wren">Package page</a><sup class="link-status non-selectable"><a href="/link/https://aur.archlinux.org/packages/wren" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=wren">Package recipe</a><sup class="link-status non-selectable"><a href="/link/https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD%3Fh%3Dwren" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=wren">Package recipe (raw)</a><sup class="link-status non-selectable"><a href="/link/https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD%3Fh%3Dwren" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://wren.io/">Upstream homepage</a><sup class="link-status non-selectable"><a href="/link/https://wren.io/" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="panel panel-version-rolling">
+			<div class="panel-heading">
+				<div class="package-repository">
+				<a class="panel-heading-link" href="/repository/aur">AUR</a></div>
+				<h3 class="package-name">wren-git</h3>
+				<div class="package-version"><span class="">0</span> (0-1)</div>
+			</div>
+			<ul class="list-group">
+				<li class="list-group-item"><b>Summary:</b><br>Wren is a small, fast, class-based concurrent scripting language</li>
+				<li class="list-group-item"><b>Maintainer:</b>
+					<ul class="list-package-details">
+						<li><a href="/maintainer/tetsumi%40aur">tetsumi@aur</a></li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>Link(s):</b>
+					<ul class="list-package-details">
+						<li><a href="https://aur.archlinux.org/packages/wren-git">Package page</a><sup class="link-status non-selectable"><a href="/link/https://aur.archlinux.org/packages/wren-git" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=wren-git">Package recipe</a><sup class="link-status non-selectable"><a href="/link/https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD%3Fh%3Dwren-git" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=wren-git">Package recipe (raw)</a><sup class="link-status non-selectable"><a href="/link/https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD%3Fh%3Dwren-git" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="http://munificent.github.io/wren/">Upstream homepage</a><sup class="link-status non-selectable"><a href="/link/http://munificent.github.io/wren/" rel="nofollow"><span class="link-error">dead</span></a> <a href="https://web.archive.org/web/*/http://munificent.github.io/wren/">(see archive.org)</a></sup></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="panel panel-version-newest">
+			<div class="panel-heading">
+				<div class="package-repository">
+				<a class="panel-heading-link" href="/repository/homebrew">Homebrew</a></div>
+				<h3 class="package-name">wren</h3>
+				<div class="package-version"><span class="">0.4.0</span></div>
+			</div>
+			<ul class="list-group">
+				<li class="list-group-item"><b>Summary:</b><br>Small, fast, class-based concurrent scripting language</li>
+				<li class="list-group-item"><b>Link(s):</b>
+					<ul class="list-package-details">
+						<li><a href="https://formulae.brew.sh/formula/wren">Package page</a><sup class="link-status non-selectable"><a href="/link/https://formulae.brew.sh/formula/wren" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://github.com/Homebrew/homebrew-core/blob/master/Formula/wren.rb">Package recipe</a><sup class="link-status non-selectable"><a href="/link/https://github.com/Homebrew/homebrew-core/blob/master/Formula/wren.rb" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://raw.githubusercontent.com/Homebrew/homebrew-core/master/Formula/wren.rb">Package recipe (raw)</a><sup class="link-status non-selectable"><a href="/link/https://raw.githubusercontent.com/Homebrew/homebrew-core/master/Formula/wren.rb" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://wren.io/">Upstream homepage</a><sup class="link-status non-selectable"><a href="/link/https://wren.io/" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-4">
+		<div class="panel panel-version-newest">
+			<div class="panel-heading">
+				<div class="package-repository">
+				<a class="panel-heading-link" href="/repository/macports">MacPorts</a></div>
+				<h3 class="package-name">wren</h3>
+				<div class="package-version"><span class="">0.4.0</span></div>
+			</div>
+			<ul class="list-group">
+				<li class="list-group-item"><b>Summary:</b><br>Wren is a small, fast, class-based concurrent scripting language.</li>
+				<li class="list-group-item"><b>Maintainer:</b>
+					<ul class="list-package-details">
+						<li><a href="/maintainer/herbygillot%40github">herbygillot@github</a></li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>Category:</b>
+					<ul class="list-package-details">
+						<li>lang</li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>License:</b>
+					<ul class="list-package-details">
+						<li>MIT</li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>Link(s):</b>
+					<ul class="list-package-details">
+						<li><a href="https://ports.macports.org/port/wren/summary/">Package page</a><sup class="link-status non-selectable"><a href="/link/https://ports.macports.org/port/wren/summary/" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://github.com/macports/macports-ports/tree/master/lang/wren">Package sources</a><sup class="link-status non-selectable"><a href="/link/https://github.com/macports/macports-ports/tree/master/lang/wren" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://github.com/macports/macports-ports/blob/master/lang/wren/Portfile">Package recipe</a><sup class="link-status non-selectable"><a href="/link/https://github.com/macports/macports-ports/blob/master/lang/wren/Portfile" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://raw.githubusercontent.com/macports/macports-ports/master/lang/wren/Portfile">Package recipe (raw)</a><sup class="link-status non-selectable"><a href="/link/https://raw.githubusercontent.com/macports/macports-ports/master/lang/wren/Portfile" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://trac.macports.org/query?status=!closed&amp;port=~wren">Package issue tracker</a><sup class="link-status non-selectable"><a href="/link/https://trac.macports.org/query%3Fstatus%3D!closed%26port%3D~wren" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://ports.macports.org/port/wren/stats/">Package statistics</a><sup class="link-status non-selectable"><a href="/link/https://ports.macports.org/port/wren/stats/" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://ports.macports.org/port/wren/builds/">Package build status</a><sup class="link-status non-selectable"><a href="/link/https://ports.macports.org/port/wren/builds/" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://wren.io/">Upstream homepage</a><sup class="link-status non-selectable"><a href="/link/https://wren.io/" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="panel panel-version-newest">
+			<div class="panel-heading">
+				<div class="package-repository">
+				<a class="panel-heading-link" href="/repository/rpmsphere">RPM Sphere</a></div>
+				<h3 class="package-name">wren</h3>
+				<div class="package-version"><span class="">0.4.0</span> (0.4.0-1)</div>
+			</div>
+			<ul class="list-group">
+				<li class="list-group-item"><b>Summary:</b><br>Wren programming language</li>
+				<li class="list-group-item"><b>Category:</b>
+					<ul class="list-package-details">
+						<li>Development/Languages</li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>License:</b>
+					<ul class="list-package-details">
+						<li>MIT</li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>Link(s):</b>
+					<ul class="list-package-details">
+						<li><a href="https://github.com/munificent/wren">Upstream homepage</a><sup class="link-status non-selectable"><a href="/link/https://github.com/munificent/wren" rel="nofollow"><span class="link-redirect">redir</span>, <span class="link-error">no IPv6</span></a></sup></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="panel panel-version-newest">
+			<div class="panel-heading">
+				<div class="package-repository">
+				<a class="panel-heading-link" href="/repository/termux">Termux</a></div>
+				<h3 class="package-name">wren</h3>
+				<div class="package-version"><span class="">0.4.0</span></div>
+			</div>
+			<ul class="list-group">
+				<li class="list-group-item"><b>Summary:</b><br>Small, fast, class-based concurrent scripting language interpreter</li>
+				<li class="list-group-item"><b>Maintainer:</b>
+					<ul class="list-package-details">
+						<li><a href="/maintainer/termux%40github">termux@github</a></li>
+					</ul>
+				</li>
+				<li class="list-group-item"><b>Link(s):</b>
+					<ul class="list-package-details">
+						<li><a href="https://wren.io/">Upstream homepage</a><sup class="link-status non-selectable"><a href="/link/https://wren.io/" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://github.com/wren-lang/wren-cli/archive/0.4.0.tar.gz">Upstream download</a><sup class="link-status non-selectable"><a href="/link/https://github.com/wren-lang/wren-cli/archive/0.4.0.tar.gz" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://github.com/termux/termux-packages/tree/b6e744993/packages/wren">Package sources</a><sup class="link-status non-selectable"><a href="/link/https://github.com/termux/termux-packages/tree/b6e744993/packages/wren" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://github.com/termux/termux-packages/blob/b6e744993/packages/wren/build.sh">Package recipe</a><sup class="link-status non-selectable"><a href="/link/https://github.com/termux/termux-packages/blob/b6e744993/packages/wren/build.sh" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://raw.githubusercontent.com/termux/termux-packages/b6e744993/packages/wren/build.sh">Package recipe (raw)</a><sup class="link-status non-selectable"><a href="/link/https://raw.githubusercontent.com/termux/termux-packages/b6e744993/packages/wren/build.sh" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://github.com/termux/termux-packages/blob/b6e744993/packages/wren/libuv-sys-include.patch">Patch</a><sup class="link-status non-selectable"><a href="/link/https://github.com/termux/termux-packages/blob/b6e744993/packages/wren/libuv-sys-include.patch" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://raw.githubusercontent.com/termux/termux-packages/b6e744993/packages/wren/libuv-sys-include.patch">Patch (raw)</a><sup class="link-status non-selectable"><a href="/link/https://raw.githubusercontent.com/termux/termux-packages/b6e744993/packages/wren/libuv-sys-include.patch" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://github.com/termux/termux-packages/blob/b6e744993/packages/wren/projects-make-wren_cli.make.patch">Patch</a><sup class="link-status non-selectable"><a href="/link/https://github.com/termux/termux-packages/blob/b6e744993/packages/wren/projects-make-wren_cli.make.patch" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://raw.githubusercontent.com/termux/termux-packages/b6e744993/packages/wren/projects-make-wren_cli.make.patch">Patch (raw)</a><sup class="link-status non-selectable"><a href="/link/https://raw.githubusercontent.com/termux/termux-packages/b6e744993/packages/wren/projects-make-wren_cli.make.patch" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-4">
+		<div class="panel panel-version-newest">
+			<div class="panel-heading">
+				<div class="package-repository">
+				<a class="panel-heading-link" href="/repository/vcpkg">Vcpkg</a></div>
+				<h3 class="package-name">wren</h3>
+				<div class="package-version"><span class="">0.4.0</span></div>
+			</div>
+			<ul class="list-group">
+				<li class="list-group-item"><b>Summary:</b><br>Wren is a small, fast, class-based concurrent scripting language.</li>
+				<li class="list-group-item"><b>Link(s):</b>
+					<ul class="list-package-details">
+						<li><a href="https://github.com/Microsoft/vcpkg/tree/master/ports/wren">Package sources</a><sup class="link-status non-selectable"><a href="/link/https://github.com/Microsoft/vcpkg/tree/master/ports/wren" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://github.com/Microsoft/vcpkg/blob/master/ports/wren/portfile.cmake">Package recipe</a><sup class="link-status non-selectable"><a href="/link/https://github.com/Microsoft/vcpkg/blob/master/ports/wren/portfile.cmake" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+						<li><a href="https://raw.githubusercontent.com/Microsoft/vcpkg/master/ports/wren/portfile.cmake">Package recipe (raw)</a><sup class="link-status non-selectable"><a href="/link/https://raw.githubusercontent.com/Microsoft/vcpkg/master/ports/wren/portfile.cmake" rel="nofollow"><span class="link-ok">ok</span></a></sup></li>
+						<li><a href="https://github.com/wren-lang/wren">Upstream homepage</a><sup class="link-status non-selectable"><a href="/link/https://github.com/wren-lang/wren" rel="nofollow"><span class="link-ok">ok</span>, <span class="link-error">no IPv6</span></a></sup></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+</div>
+<footer class="footer">
+	<div class="container">
+		<p class="pull-right footer-links">
+			GitHub repositories:
+			<a href="https://github.com/repology/repology-webapp">webapp</a>,
+			<a href="https://github.com/repology/repology-updater">updater</a>,
+			<a href="https://github.com/repology/repology-rules">ruleset</a>
+		</p>
+		<p>
+			Copyright (C) 2016-2023 Dmitry Marakasov &lt;<a href="mailto:amdmi3@amdmi3.ru" rel="author">amdmi3@amdmi3.ru</a>&gt;.<br>
+			Code licensed under GPLv3+.
+		</p>
+	</div>
+</footer>
+
+<script src="/static/jquery-3.1.1.min.js"></script>
+<script src="/static/bootstrap.min.v3.3.7.js"></script>
+<script src="/static/moment.min.v2.29.2.js"></script>
+<script src="/static/repology.v2.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+sed -e 's/./&\n/g' 鞍数.cpp | sed '/^\s*$/d' | trans -brief :zh:en

@@ -1,0 +1,1 @@
+php -r 'echo json_encode(array_map(fn($line) => str_getcsv($line, '';''), file(''file.csv'')));'
